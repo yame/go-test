@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/yame/go-test
 
 go 1.18
 
